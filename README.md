@@ -3,7 +3,7 @@
   Aksaray İlimize ait Paşacık Mahallesin de yer alan, Şehit Halil Camii için düzenlediğimiz sanal tur projesidir.
 
 
-## NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağıdaki git komutlarını açtığımız bash terminalin de çalıştırırız;
+# NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağıdaki git komutlarını açtığımız bash terminalin de çalıştırırız;
 
      - git init
      - git status
