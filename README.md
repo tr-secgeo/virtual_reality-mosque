@@ -2,6 +2,8 @@
 
   Aksaray İlimize ait Paşacık Mahallesin de yer alan, Şehit Halil Camii için düzenlediğimiz sanal tur projesidir.
 
+  https://tr-secgeo.github.io/virtual_reality-mosque/
+
 
  NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağıdaki git komutlarını açtığımız bash terminalin de çalıştırırız;
 
